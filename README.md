@@ -6,6 +6,8 @@ Oferta Laboral para COR, Satrtup de Silicon valley
 
 Se hicieron varias pruebas con diferentes Arrays, estas pruebas se pueden encontrar dentro del código (archivo: app.js) entre las líneas 77 al 99.
 
+Dentro se encontrarán casos de pruebas con errores y sin errores solo tienes que descomentar el que deseas probar y ejecutar el código nuevamente.
+
 Actualmente, la función está seteada con el Array del problema: ['chair', 'racket', 'touch', 'height', 'tunic']
 
 ---
