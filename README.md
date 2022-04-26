@@ -11,3 +11,8 @@ Actualmente, la función está seteada con el Array del problema: ['chair', 'rac
 ```
 node app.js
 ```
+
+### Resultado
+```
+Se genera un archivo TXT (resultado.txt)
+```
