@@ -33,5 +33,6 @@ tunic
 
 ### Ejecutar la función
 ```
+Comando:
 node app.js
 ```
