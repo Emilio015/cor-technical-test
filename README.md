@@ -22,6 +22,7 @@ carácter de X es el mismo que el primer carácter de Y.
 ### Output
 ```
 chair --> racket --> touch --> height --> tunic --> chair
+
 Se genera un archivo TXT (resultado.txt) con el siguiente contenido:
 chair
 racket
