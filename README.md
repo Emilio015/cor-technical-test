@@ -1,12 +1,14 @@
 # cor-technical-test
 Oferta Laboral para COR, Satrtup de Silicon valley
 
+---
 ## Developer: Emilio Gonzales
 
 Se hicieron varias pruebas con diferentes Arrays, estas pruebas se pueden encontrar dentro del código (archivo: app.js) entre las líneas 77 al 99.
 
 Actualmente, la función está seteada con el Array del problema: ['chair', 'racket', 'touch', 'height', 'tunic']
 
+---
 ## Enunciado del problema
 ```
 Dada una lista de palabras, determine si las palabras se pueden encadenar para formar un
