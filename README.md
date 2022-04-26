@@ -17,6 +17,13 @@ carácter de X es el mismo que el primer carácter de Y.
 ```
 
 ---
+## Ejecutar la función
+```
+Comando:
+node app.js
+```
+
+---
 ## Caso de prueba
 
 ### Input
@@ -34,11 +41,4 @@ racket
 touch
 height
 tunic
-```
-
----
-## Ejecutar la función
-```
-Comando:
-node app.js
 ```
