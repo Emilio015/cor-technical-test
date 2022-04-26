@@ -16,6 +16,7 @@ círculo. Una palabra X se puede colocar delante de otra palabra Y en un círcul
 carácter de X es el mismo que el primer carácter de Y.
 ```
 
+---
 ## Caso de prueba
 
 ### Input
@@ -35,6 +36,7 @@ height
 tunic
 ```
 
+---
 ## Ejecutar la función
 ```
 Comando:
